@@ -1,0 +1,12 @@
+name = input("Enter your name:")
+age = input("Enter your age: ")
+hobby = input("Enter your favorite hobby: ")
+city = input("Enter your city: ")
+goal = input("Enter your career goal: ")
+
+print("\n--- Welcome Message ---")
+print(f"Hello {name}!")
+print(f"You are {age} years old and live in {city}.")
+print(f"You enjoy {hobby}.")
+print(f"Your career goal is to become {goal}.")
+print("Nice to meet you! Have a great day 😊")
